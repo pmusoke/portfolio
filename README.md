@@ -12,6 +12,8 @@ Python-based arcade implementation using object-oriented design.
 - Object-oriented architecture
 - Built as part of a CS50 final project
 
+**Repo:** https://github.com/pmusoke/tetris-arcade-game
+
 ---
 
 ### 🛠️ Sentry Clone — Error Monitoring Platform
