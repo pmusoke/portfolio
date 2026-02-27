@@ -24,6 +24,8 @@ Full-stack web application inspired by Sentry.
 - Error status management (resolved/unresolved)
 - Built using Django, JavaScript, HTML/CSS, SQLite
 
+**Repo:** https://github.com/pmusoke/error-monitoring-platform
+
 ---
 
 ## Technical Skills
